@@ -1,0 +1,26 @@
+.btn-class
+{
+    background-color:rgb(190, 22, 22);
+}
+/* #main-div
+{
+    background-color:gray;
+} */
+h3{
+    color:white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-weight: bolder;
+    
+}
+#warning{
+    display:none;
+}
+#body{
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    background-position: center center;
+  
+}
